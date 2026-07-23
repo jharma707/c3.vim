@@ -93,7 +93,6 @@ highlight link c3Alias Keyword
 highlight link c3Asm Keyword
 highlight link c3Assert Keyword
 highlight link c3Attrdef Keyword
-highlight link c3Attribute Keyword
 highlight link c3Break Keyword
 highlight link c3Case Keyword
 highlight link c3Catch Keyword
