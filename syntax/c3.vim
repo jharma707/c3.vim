@@ -5,48 +5,48 @@ endif
 syntax keyword c3Alias alias
 syntax keyword c3Asm asm
 syntax keyword c3Assert assert
-syntax keyword c3Attrdef attrdef 
+syntax keyword c3Attrdef attrdef
 syntax keyword c3Bitstruct bitstruct
 syntax keyword c3Break break
 syntax keyword c3Case case
-syntax keyword c3Catch catch 
-syntax keyword c3Const const 
+syntax keyword c3Catch catch
+syntax keyword c3Const const
 syntax keyword c3Constdef constdef
-syntax keyword c3Continue continue 
+syntax keyword c3Continue continue
 syntax keyword c3Default default
-syntax keyword c3Defer defer 
-syntax keyword c3Define define 
+syntax keyword c3Defer defer
+syntax keyword c3Define define
 syntax keyword c3Distinct distinct
 syntax keyword c3Do do
-syntax keyword c3Else else 
-syntax keyword c3Enum enum 
+syntax keyword c3Else else
+syntax keyword c3Enum enum
 syntax keyword c3Extern extern
 syntax keyword c3Faultdef faultdef
 syntax keyword c3Fault fault
 syntax keyword c3For for
 syntax keyword c3Foreach foreach
 syntax keyword c3Foreachr foreach_r
-syntax keyword c3Fn fn 
+syntax keyword c3Fn fn
 syntax keyword c3If if
 syntax keyword c3Import import
 syntax keyword c3Inline inline
 syntax keyword c3Interface interface
-syntax keyword c3Macro macro 
-syntax keyword c3Module module 
+syntax keyword c3Macro macro
+syntax keyword c3Module module
 syntax keyword c3Nextcase nextcase
 syntax keyword c3Return return
 syntax keyword c3Static static
-syntax keyword c3Struct struct 
+syntax keyword c3Struct struct
 syntax keyword c3Switch switch
 syntax keyword c3Tlocal tlocal
 syntax keyword c3Try try
 syntax keyword c3Typedef typedef
 syntax keyword c3Union union
-syntax keyword c3Var var 
-syntax keyword c3Void void 
-syntax keyword c3While while 
+syntax keyword c3Var var
+syntax keyword c3Void void
+syntax keyword c3While while
 
-syntax keyword c3DataType float double char bool byte short ushort int uint long ulong isz usz iptr uptr int128 uint128 float16 float128 typeid any fault bfloat untypedlist
+syntax keyword c3DataType float double char bool byte short ushort int uint long ulong sz usz iptr uptr int128 uint128 float16 float128 typeid any fault bfloat untypedlist sz
 syntax keyword c3Bool true false
 syntax keyword c3Null null
 
